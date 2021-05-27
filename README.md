@@ -153,3 +153,9 @@ MIR: music information retrieval
 1. **Demucs: Deep Extractor for Music Sources with extra unlabeled data remixed.** arXiv 2019. [paper](https://arxiv.org/pdf/1909.01174.pdf)
 
     *Alexandre Défossez, Nicolas Usunier, Léon Bottou, Francis Bach.* 
+
+## [Style Transfer](#content) 
+
+1. **Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data.** HAL 2020. [paper](https://hal.archives-ouvertes.fr/hal-02923548/document)
+
+    *Ondřej Cífka, Umut Şimşekli, Gael Richard.* 
