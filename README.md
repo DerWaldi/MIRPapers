@@ -156,6 +156,6 @@ MIR: music information retrieval
 
 ## [Style Transfer](#content) 
 
-1. **Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data.** HAL 2020. [paper](https://hal.archives-ouvertes.fr/hal-02923548/document)
+1. **Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data.** HAL 2020. [paper](https://hal.archives-ouvertes.fr/hal-02923548/document) [code](https://github.com/cifkao/groove2groove)
 
     *Ondřej Cífka, Umut Şimşekli, Gael Richard.* 
