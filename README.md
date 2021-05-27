@@ -23,6 +23,7 @@ MIR: music information retrieval
     <td>&emsp;<a href="#Chord-Recognition">3.1 Chord Recognition</a></td>
     <td>&ensp;<a href="#Key-Recognition">3.2 Key Recognition</a></td>
 </tr>
+<tr><td colspan="2"><a href="#Blind-Source-Separation">4. Blind Source Separation</a></td></tr>
 </table>
 
 ## [Piano Transciption](#content) 
@@ -35,7 +36,8 @@ MIR: music information retrieval
 
 ### [Piano Multi Pitch Estimation](#content)
 
-1. **High-resolution Piano Transcription with Pedals by Regressing Onsets and Offsets Times.** arxiv 2020. [paper](https://arxiv.org/pdf/2010.01815.pdf)
+1. **High-resolution Piano Transcription with Pedals by Regressing Onsets and Offsets Times.** arxiv 2020. 
+[paper](https://arxiv.org/pdf/2010.01815.pdf) [code](https://github.com/bytedance/piano_transcription)
 
     *Qiuqiang Kong, Bochen Li, Xuchen Song, Yuan Wan, Yuxuan Wang.* 
     
@@ -51,10 +53,10 @@ MIR: music information retrieval
 
     *Eita Nakamura, Emmanouil Benetos, Kazuyoshi Yoshii, Simon Dixon.* 
     
-1. **Onsets and Frames: Dual-Objective Piano Transcription.** arxiv 2018. [paper](https://arxiv.org/pdf/1710.11153.pdf)
+1. **Onsets and Frames: Dual-Objective Piano Transcription.** arxiv 2018. 
+[paper](https://arxiv.org/pdf/1710.11153.pdf) [code](https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription)
 
     *Curtis Hawthorne, Erich Elsen, Jialin Song, Adam Roberts, Ian Simon, Colin Raffel, Jesse Engel, Sageev Oore, Douglas Eck.* 
-
 
 
 ### [Piano Hand Separation](#content)
@@ -63,11 +65,10 @@ MIR: music information retrieval
 
     *Eita Nakamura, Yasuyuki Saito, Kazuyoshi Yoshii.* 
     
-    
-1. **Detecting Hands in Piano MIDI Data** MuC 2019. [paper](http://www.cemfi.de/wp-content/papercite-data/pdf/hadjakos-2019-detectinghands.pdf)
+1. **Detecting Hands in Piano MIDI Data.** MuC 2019. 
+[paper](http://www.cemfi.de/wp-content/papercite-data/pdf/hadjakos-2019-detectinghands.pdf) [code](https://github.com/cemfi/hannds)
 
     *Aristotelis Hadjakos, Simon Waloschek, Alexander Leemhuis.* 
-    
     
 1. **Merged-Output HMM for Piano Fingering of Both Hands.** ISMIR 2014. [paper](https://zenodo.org/record/1415152#.YK8zzKgzaUk)
 
@@ -86,7 +87,8 @@ MIR: music information retrieval
     
 ### [Beat Tracking](#content)
 
-1. **Temporal convolutional networks for musical audio beat tracking.** EUSIPCO 2019. [paper](http://telecom.inesctec.pt/~mdavies/pdfs/DaviesBoeck19-eusipco.pdf)
+1. **Temporal convolutional networks for musical audio beat tracking.** EUSIPCO 2019. 
+[paper](http://telecom.inesctec.pt/~mdavies/pdfs/DaviesBoeck19-eusipco.pdf) [code](https://github.com/ben-hayes/beat-tracking-tcn)
 
     *Matthew Davies, Sebastian Böck.* 
 
