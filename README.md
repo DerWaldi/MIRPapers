@@ -37,7 +37,7 @@ MIR: music information retrieval
 ## [Piano Transciption](#content) 
 
 ### [Audio-to-Score Transcription](#content)
-1. **Non-Local Musical Statistics as Guides for Audio-to-Score Piano Transcription.** arxiv 2021. [paper](https://arxiv.org/pdf/2008.12710.pdf)
+1. **Non-Local Musical Statistics as Guides for Audio-to-Score Piano Transcription.** arXiv 2021. [paper](https://arxiv.org/pdf/2008.12710.pdf)
 
     *Kentaro Shibataa, Eita Nakamuraa, Kazuyoshi Yoshiia.* 
     
@@ -49,16 +49,16 @@ MIR: music information retrieval
 
 ### [Piano Multi Pitch Estimation](#content)
 
-1. **High-resolution Piano Transcription with Pedals by Regressing Onsets and Offsets Times.** arxiv 2020. 
+1. **High-resolution Piano Transcription with Pedals by Regressing Onsets and Offsets Times.** arXiv 2020. 
 [paper](https://arxiv.org/pdf/2010.01815.pdf) [code](https://github.com/bytedance/piano_transcription)
 
     *Qiuqiang Kong, Bochen Li, Xuchen Song, Yuan Wan, Yuxuan Wang.* 
     
-1. **Polyphonic Pitch Tracking with Deep Layered Learning.** arxiv 2019. [paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.02918.pdf)
+1. **Polyphonic Pitch Tracking with Deep Layered Learning.** arXiv 2019. [paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.02918.pdf)
 
     *Anders Elowsson.* 
     
-1. **Deep Polyphonic ADSR Piano Note Transcription.** arxiv 2019. [paper](https://arxiv.org/pdf/1906.09165.pdf)
+1. **Deep Polyphonic ADSR Piano Note Transcription.** arXiv 2019. [paper](https://arxiv.org/pdf/1906.09165.pdf)
 
     *Rainer Kelz, Sebastian Böck, Gerhard Widmer.* 
     
@@ -70,7 +70,7 @@ MIR: music information retrieval
 
     *Eita Nakamura, Emmanouil Benetos, Kazuyoshi Yoshii, Simon Dixon.* 
     
-1. **Onsets and Frames: Dual-Objective Piano Transcription.** arxiv 2018. 
+1. **Onsets and Frames: Dual-Objective Piano Transcription.** arXiv 2018. 
 [paper](https://arxiv.org/pdf/1710.11153.pdf) [code](https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription)
 
     *Curtis Hawthorne, Erich Elsen, Jialin Song, Adam Roberts, Ian Simon, Colin Raffel, Jesse Engel, Sageev Oore, Douglas Eck.* 
@@ -78,7 +78,7 @@ MIR: music information retrieval
 
 ### [Piano Hand Separation](#content)
 
-1. **Statistical Learning and Estimation of Piano Fingering.** Arxiv 2020. [paper](https://arxiv.org/pdf/1904.10237.pdf)
+1. **Statistical Learning and Estimation of Piano Fingering.** arXiv 2020. [paper](https://arxiv.org/pdf/1904.10237.pdf)
 
     *Eita Nakamura, Yasuyuki Saito, Kazuyoshi Yoshii.* 
     
@@ -107,7 +107,7 @@ MIR: music information retrieval
 
 ### [Note Quantization](#content)
 
-1. **Note Value Recognition for Piano Transcription Using Markov Random Fields.** Arxiv 2017. [paper](https://arxiv.org/pdf/1703.08144.pdf)
+1. **Note Value Recognition for Piano Transcription Using Markov Random Fields.** arXiv 2017. [paper](https://arxiv.org/pdf/1703.08144.pdf)
 
     *Eita Nakamura, Kazuyoshi Yoshii, Simon Dixon.* 
     
@@ -132,14 +132,14 @@ MIR: music information retrieval
 
 ### [Chord Recognition](#content)
 
-1. **A Fully Convolutional Deep Auditory Model for Musical Chord Recognition.** Arxiv 2016. [paper](https://arxiv.org/pdf/1612.05082.pdf)
+1. **A Fully Convolutional Deep Auditory Model for Musical Chord Recognition.** arXiv 2016. [paper](https://arxiv.org/pdf/1612.05082.pdf)
 
     *Filip Korzeniowski, Gerhard Widmer.* 
 
 
 ### [Key Recognition](#content)
 
-1. **Note Value Recognition for Piano Transcription Using Markov Random Fields.** Arxiv 2017. [paper](https://arxiv.org/pdf/1703.08144.pdf)
+1. **Note Value Recognition for Piano Transcription Using Markov Random Fields.** arXiv 2017. [paper](https://arxiv.org/pdf/1703.08144.pdf)
 
     *Eita Nakamura, Kazuyoshi Yoshii, Simon Dixon.* 
     
@@ -150,6 +150,6 @@ MIR: music information retrieval
 
     *Romain Hennequin, Anis Khlif, Felix Voituret, Manuel Moussallam.* 
 
-1. **Demucs: Deep Extractor for Music Sources with extra unlabeled data remixed.** arxiv 2019. [paper](https://arxiv.org/pdf/1909.01174.pdf)
+1. **Demucs: Deep Extractor for Music Sources with extra unlabeled data remixed.** arXiv 2019. [paper](https://arxiv.org/pdf/1909.01174.pdf)
 
     *Alexandre Défossez, Nicolas Usunier, Léon Bottou, Francis Bach.* 
