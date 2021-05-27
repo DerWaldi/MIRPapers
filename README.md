@@ -39,6 +39,10 @@ MIR: music information retrieval
 
     *Qiuqiang Kong, Bochen Li, Xuchen Song, Yuan Wan, Yuxuan Wang.* 
     
+1. **Deep Polyphonic ADSR Piano Note Transcription.** arxiv 2019. [paper](https://arxiv.org/pdf/1906.09165.pdf)
+
+    *Rainer Kelz, Sebastian Böck, Gerhard Widmer.* 
+    
 1. **Polyphonic Music Transcription with Semantic Segmentation.** ICASSP 2019. [paper](https://ieeexplore.ieee.org/document/8682605/)
 
     *Yu-Te Wu, Berlin Chen, Li Su.* 
@@ -82,9 +86,17 @@ MIR: music information retrieval
     
 ### [Beat Tracking](#content)
 
-1. **Note Value Recognition for Piano Transcription Using Markov Random Fields.** Arxiv 2017. [paper](https://arxiv.org/pdf/1703.08144.pdf)
+1. **Temporal convolutional networks for musical audio beat tracking.** EUSIPCO 2019. [paper](http://telecom.inesctec.pt/~mdavies/pdfs/DaviesBoeck19-eusipco.pdf)
 
-    *Eita Nakamura, Kazuyoshi Yoshii, Simon Dixon.* 
+    *Matthew Davies, Sebastian Böck.* 
+
+1. **A MUSIC STRUCTURE INFORMED DOWNBEAT TRACKING SYSTEM USING SKIP-CHAIN CONDITIONAL RANDOM FIELDS AND DEEP LEARNING.** ICASSP 2019. [paper](https://brianmcfee.net/papers/icassp2019_beat.pdf)
+
+    *Magdalena Fuentes, Brian McFee, Hélène C. Crayencour, Slim Essid, Juan Pablo Bello.* 
+
+1. **JOINT BEAT AND DOWNBEAT TRACKING WITH RECURRENT NEURAL NETWORKS.** ISMIR 2016. [paper](http://www.cp.jku.at/research/papers/Boeck_etal_ISMIR_2016.pdf)
+
+    *Sebastian Bock, Florian Krebs, Gerhard Widmer.* 
 
 
 ## [Harmonic Analysis](#content) 
