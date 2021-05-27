@@ -1,4 +1,4 @@
-# Must-read papers in MIR
+# Must-read papers on MIR
 MIR: music information retrieval
 
 
