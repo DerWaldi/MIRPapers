@@ -26,6 +26,8 @@ MIR: music information retrieval
     <td>&ensp;<a href="#Key-Recognition">5.2 Key Recognition</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Blind-Source-Separation">5. Blind Source Separation</a></td></tr>
+<tr><td colspan="2"><a href="#Style-Transfer">6. Style Transfer</a></td></tr>
+<tr><td colspan="2"><a href="#Music-Audio-Quality">7. Music Audio Quality</a></td></tr>
 </table>
 
 ## [Automatic Music Transcription](#content) 
@@ -154,8 +156,18 @@ MIR: music information retrieval
 
     *Alexandre Défossez, Nicolas Usunier, Léon Bottou, Francis Bach.* 
 
+
 ## [Style Transfer](#content) 
 
-1. **Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data.** HAL 2020. [paper](https://hal.archives-ouvertes.fr/hal-02923548/document) [code](https://github.com/cifkao/groove2groove)
+1. **Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data.** HAL 2020. 
+[paper](https://hal.archives-ouvertes.fr/hal-02923548/document) [code](https://github.com/cifkao/groove2groove)
 
     *Ondřej Cífka, Umut Şimşekli, Gael Richard.* 
+
+
+## [Music Audio Quality](#content) 
+
+1. **Fast and Easy Crowdsourced Perceptual Audio Evaluation.** ICASSP 2016. 
+[paper](https://ieeexplore.ieee.org/document/7471749) [code](https://github.com/interactiveaudiolab/CAQE)
+
+    *Mark Cartwright, Bryan Pardo, Gautham Mysore, Matt Hoffman.* 
