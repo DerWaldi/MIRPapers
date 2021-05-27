@@ -113,3 +113,14 @@ MIR: music information retrieval
 1. **Note Value Recognition for Piano Transcription Using Markov Random Fields.** Arxiv 2017. [paper](https://arxiv.org/pdf/1703.08144.pdf)
 
     *Eita Nakamura, Kazuyoshi Yoshii, Simon Dixon.* 
+    
+
+## [Blind Source Separation](#content) 
+
+1. **Spleeter: a fast and efficient music source separation tool with pre-trained models.** ISMIR 2019. [paper](https://archives.ismir.net/ismir2019/latebreaking/000036.pdf)
+
+    *Romain Hennequin, Anis Khlif, Felix Voituret, Manuel Moussallam.* 
+
+1. **Demucs: Deep Extractor for Music Sources with extra unlabeled data remixed.** arxiv 2019. [paper](https://arxiv.org/pdf/1909.01174.pdf)
+
+    *Alexandre Défossez, Nicolas Usunier, Léon Bottou, Francis Bach.* 
