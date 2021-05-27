@@ -3,35 +3,48 @@ MIR: music information retrieval
 
 
 ## [Content](#content)
-<table>
-<tr><td colspan="2"><a href="#piano-transcription">1. Piano Transcription</a></td></tr>
+<table>    
+<tr><td colspan="2"><a href="#Automatic-Music-Transcription">1. Automatic Music Transcription</a></td></tr>
+<tr><td colspan="2"><a href="#piano-transcription">2. Piano Transcription</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#audio-to-score-transcriptions">1.1 Audio to Score Transcription</a></td>
-    <td>&ensp;<a href="#Piano-Multi-Pitch-Estimation">1.2 Multi Pitch Estimation</a></td>
+    <td>&emsp;<a href="#audio-to-score-transcriptions">2.1 Audio-to-Score Transcription</a></td>
+    <td>&ensp;<a href="#Piano-Multi-Pitch-Estimation">2.2 Multi Pitch Estimation</a></td>
 </tr>   
 <tr>
-    <td>&emsp;<a href="#Piano-Hand-Separationn">1.3 Piano Hand Separation</a></td>
+    <td>&emsp;<a href="#Piano-Hand-Separationn">2.3 Piano Hand Separation</a></td>
     <td></td>
 </tr>   
-<tr><td colspan="2"><a href="#Rhythmic-Analysis">2. Rhythmic Analysis</a></td></tr>
+<tr><td colspan="2"><a href="#Melody-Transcription">3. Melody Transcription</a></td></tr>
+<tr><td colspan="2"><a href="#Rhythmic-Analysis">4. Rhythmic Analysis</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#Note-Quantization">2.1 Note Quantization</a></td>
-    <td>&ensp;<a href="#Beat-Trackingn">2.2 Beat Tracking</a></td>
+    <td>&emsp;<a href="#Note-Quantization">4.1 Note Quantization</a></td>
+    <td>&ensp;<a href="#Beat-Trackingn">4.2 Beat Tracking</a></td>
 </tr>   
-<tr><td colspan="2"><a href="#Harmonic-Analysis">3. Harmonic Analysis</a></td></tr>
+<tr><td colspan="2"><a href="#Harmonic-Analysis">5. Harmonic Analysis</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#Chord-Recognition">3.1 Chord Recognition</a></td>
-    <td>&ensp;<a href="#Key-Recognition">3.2 Key Recognition</a></td>
+    <td>&emsp;<a href="#Chord-Recognition">5.1 Chord Recognition</a></td>
+    <td>&ensp;<a href="#Key-Recognition">5.2 Key Recognition</a></td>
 </tr>
-<tr><td colspan="2"><a href="#Blind-Source-Separation">4. Blind Source Separation</a></td></tr>
+<tr><td colspan="2"><a href="#Blind-Source-Separation">5. Blind Source Separation</a></td></tr>
 </table>
+
+## [Automatic Music Transcription](#content) 
+1. **Automatic Music Transcription: An Overview.** IEEE 2019. [paper](http://www.eecs.qmul.ac.uk/~ewerts/publications/2019_BenetosDixonDuanEwert_AutomaticMusicTranscription_IEEE-SPM.pdf)
+
+    *Emmanouil Benetos, Simon Dixon, Zhiyao Duan, and Sebastian Ewert.* 
+    
 
 ## [Piano Transciption](#content) 
 
-### [Audio to Score Transcription](#content)
+### [Audio-to-Score Transcription](#content)
 1. **Non-Local Musical Statistics as Guides for Audio-to-Score Piano Transcription.** arxiv 2021. [paper](https://arxiv.org/pdf/2008.12710.pdf)
 
     *Kentaro Shibataa, Eita Nakamuraa, Kazuyoshi Yoshiia.* 
+    
+1. **Transcribing Human Piano Performances into Music Notation.** ISMIR 2016. 
+[paper](http://www2.ece.rochester.edu/projects/air/publications/cogliati2016transcribing.pdf) [code](https://github.com/AndreaCogliati/CompleteTranscription)
+
+    *Andrea Cogliati, David Temperley, Zhiyao Duan.* 
     
 
 ### [Piano Multi Pitch Estimation](#content)
@@ -41,6 +54,10 @@ MIR: music information retrieval
 
     *Qiuqiang Kong, Bochen Li, Xuchen Song, Yuan Wan, Yuxuan Wang.* 
     
+1. **Polyphonic Pitch Tracking with Deep Layered Learning.** arxiv 2019. [paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.02918.pdf)
+
+    *Anders Elowsson.* 
+    
 1. **Deep Polyphonic ADSR Piano Note Transcription.** arxiv 2019. [paper](https://arxiv.org/pdf/1906.09165.pdf)
 
     *Rainer Kelz, Sebastian Böck, Gerhard Widmer.* 
@@ -49,7 +66,7 @@ MIR: music information retrieval
 
     *Yu-Te Wu, Berlin Chen, Li Su.* 
     
-1. **TOWARDS COMPLETE POLYPHONIC MUSIC TRANSCRIPTION: INTEGRATING MULTI-PITCH DETECTION AND RHYTHM QUANTIZATION.** ICASSP 2018. [paper](https://eita-nakamura.github.io/articles/AudioAndMIDITranscription_ICASSP2018.pdf)
+1. **Towards Complete Polyphonic Music Transcription: Integrating Multi-Pitch Detection and Rhythm Quantization.** ICASSP 2018. [paper](https://eita-nakamura.github.io/articles/AudioAndMIDITranscription_ICASSP2018.pdf)
 
     *Eita Nakamura, Emmanouil Benetos, Kazuyoshi Yoshii, Simon Dixon.* 
     
@@ -75,8 +92,18 @@ MIR: music information retrieval
     *Eita Nakamura, Nobutaka Ono, Shigeki Sagayama.* 
 
 
-## [Rhythmic Analysis](#content) 
+## [Melody Transcription](#content) 
 
+1. **Melody Extraction Based on Deep Harmonic Neural Network.** IC-NIDC 2018. [paper](https://www.music-ir.org/mirex/abstracts/2019/BH1.pdf)
+
+    *Yuzhi Huang, Gang Liu.* 
+
+1. **Probabilistic Model for Main Melody Extraction Using Constant-Q Transform.** ICASSP 2012. [paper](https://ieeexplore.ieee.org/document/6289131)
+
+    *Benoit Fuentes, Antoine Liutkus, Roland Badeau, Gaël Richard.* 
+
+
+## [Rhythmic Analysis](#content) 
 
 ### [Note Quantization](#content)
 
@@ -92,11 +119,11 @@ MIR: music information retrieval
 
     *Matthew Davies, Sebastian Böck.* 
 
-1. **A MUSIC STRUCTURE INFORMED DOWNBEAT TRACKING SYSTEM USING SKIP-CHAIN CONDITIONAL RANDOM FIELDS AND DEEP LEARNING.** ICASSP 2019. [paper](https://brianmcfee.net/papers/icassp2019_beat.pdf)
+1. **A Music Structure Informed Downbeat Tracking System Using Skip-Chain Conditional Random Fields and Deep Learning.** ICASSP 2019. [paper](https://brianmcfee.net/papers/icassp2019_beat.pdf)
 
     *Magdalena Fuentes, Brian McFee, Hélène C. Crayencour, Slim Essid, Juan Pablo Bello.* 
 
-1. **JOINT BEAT AND DOWNBEAT TRACKING WITH RECURRENT NEURAL NETWORKS.** ISMIR 2016. [paper](http://www.cp.jku.at/research/papers/Boeck_etal_ISMIR_2016.pdf)
+1. **Joint Beat and Downbeat Tracking With Recurrent Neural Networks.** ISMIR 2016. [paper](http://www.cp.jku.at/research/papers/Boeck_etal_ISMIR_2016.pdf)
 
     *Sebastian Bock, Florian Krebs, Gerhard Widmer.* 
 
@@ -105,7 +132,7 @@ MIR: music information retrieval
 
 ### [Chord Recognition](#content)
 
-1. **A FULLY CONVOLUTIONAL DEEP AUDITORY MODEL FOR MUSICAL CHORD RECOGNITION.** Arxiv 2016. [paper](https://arxiv.org/pdf/1612.05082.pdf)
+1. **A Fully Convolutional Deep Auditory Model for Musical Chord Recognition.** Arxiv 2016. [paper](https://arxiv.org/pdf/1612.05082.pdf)
 
     *Filip Korzeniowski, Gerhard Widmer.* 
 
